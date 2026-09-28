@@ -5,7 +5,7 @@ This repository contains the data and Python code used to reproduce the
 soil seed-bank simulations and sensitivity analyses presented in the
 manuscript:
 
-Fitness Theory under Water Limitation as a Key to Unifying Theories of Plant Community Diversity
+Fitness Theory under Water Limitation Is Key to Unifying Theories of Plant Community Diversity
 
 ## Repository Contents
 
