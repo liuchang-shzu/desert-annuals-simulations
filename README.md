@@ -5,8 +5,7 @@ This repository contains the data and Python code used to reproduce the
 soil seed-bank simulations and sensitivity analyses presented in the
 manuscript:
 
-> Water-Use Trade-Offs and Seed-Bank Dynamics in Dryland Annual Plants:
-> A Fitness Framework for Species Diversity
+Fitness Theory under Water Limitation as a Key to Unifying Theories of Plant Community Diversity
 
 ## Repository Contents
 
