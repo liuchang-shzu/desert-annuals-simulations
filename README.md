@@ -128,8 +128,3 @@ local file paths are required when the repository structure is retained.
 Generated files are written to the `outputs/` directory. The generated figures
 do not need to be stored in the repository because they can be reproduced by
 running the scripts.
-
-## Citation
-
-Citation information for the associated manuscript and the archived data and
-code release will be added after DOI registration.
